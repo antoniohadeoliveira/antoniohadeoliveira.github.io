@@ -1,4 +1,5 @@
 * {
+
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -53,26 +54,32 @@
   font-size: 20px;
   text-transform: uppercase;
   text-align: center;
+
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
+
   color: #eeeeee;
   font-size: 20px;
 }
 
 .contact-info ul {
   padding-top: 1.5rem;
+
 }
 
 .contact-info ul li,
 .references ul li {
+
   padding: .4rem 0;
   color: #eeeeee;
+
 }
 
 .contact-info ul li i,
 .references ul li i {
+
   padding-right: 1rem;
   font-size: 18px;
   color: #eeeeee;
@@ -135,4 +142,5 @@
 .awards-desc {
   font-size: 16px;
   padding-left: 5px;
+
 }
